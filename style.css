@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+h1, h3, p, a{
+    border:4px solid lightpink;
+    height: 200px;
+    width: 10%;
+    padding: ;
+    position: relative;
+    display: flex;
+}
+
+h1{
+    left: 30%;
+}
+
+h3{ left: 30%;
+
+}
+
+p{
+    left: 60%;
+    bottom: 455px;
+}
+
+a{
+    left: 60%;
+    bottom: 455px;
+}
+
+p.background{
+    background: yellow;
+    
+}
